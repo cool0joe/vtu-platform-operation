@@ -11,7 +11,7 @@ A case study and runbook from my time administering the production web server fo
 | | |
 | --- | --- |
 | **Role** | Tech Support & IT Project Coordinator |
-| **Period** | 2021 – Present |
+| **Period** | 2025 – Present |
 | **Platform** | Ocayweb, a cloud-based VTU vending platform |
 | **Users** | 500+ merchants in the first 12 months. |
 | **Integrations** | MTN, Airtel and Glo partner APIs |
