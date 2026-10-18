@@ -13,7 +13,7 @@ A case study and runbook from my time administering the production web server fo
 | **Role** | Tech Support & IT Project Coordinator |
 | **Period** | 2021 – Present |
 | **Platform** | Ocayweb, a cloud-based VTU vending platform |
-| **Users** | [e.g. Over 500 Merchant in the first 12 months of launch] |
+| **Users** | 500+ merchants in the first 12 months. |
 | **Integrations** | MTN, Airtel and Glo partner APIs |
 | **My responsibility** | Day-to-day server operation, uptime, merchant monitoring, and first-line escalation |
 
@@ -35,8 +35,8 @@ A case study and runbook from my time administering the production web server fo
               (MTN · Airtel · Glo)
 ```
 
-- **OS:** Windows
-- **Web server:** Apache, LiteSpeed
+- **OS:** Linux (Namecheap shared hosting, cPanel)
+- **Web server:** Apache-compatible (cPanel)
 - **Database:** MySQL
 - **Hosting:** Namecheap
 - **Monitoring:** Uptimerobot, Custom Scripts
@@ -99,7 +99,7 @@ When something breaks, this is the order I work through:
 
 ## Results
 
-- Disbursed over **5TB** worth of data in less than 24 hours.
+- Peak day: over 5TB of data bundles vended across the network in 24 hours.
 - Resolved over 80% of merchants tickets, within 24 hours of being raised.
 - Reduced repeat incident by properly logging issues & solutions workflow.
 
